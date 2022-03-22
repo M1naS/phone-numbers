@@ -2,15 +2,9 @@
 
 This project is a simple web application using Spring Boot as a Backend and React as a Frontend.
 
-## Backend
 
-[comment]: <> (TODO: Add Instructions here)
+## Running Application
+To run the application open a terminal at the root of the repository and run
+### `docker-compose up --build`
 
-## Frontend
-
-In the front-end directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+After everything is installed and run, open [http://localhost:3001](http://localhost:3001) to view it in your browser.
